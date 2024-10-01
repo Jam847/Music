@@ -5,7 +5,7 @@
 | All That Remains                 | 101                | 6h28              |
 | Architects                       | 109                | 6h59              |
 | As I Lay Dying                   | 96                 | 5h51              |
-| [Bad Omens](../Artists/Bad Omens.md) | 63             | 3h52              |
+| [Bad Omens](../Artists/Bad_Omens.md) | 63             | 3h52              |
 | Bring Me The Horizon             | 110                | 7h15              |
 | Catch Your Breath                | 25                 | 1h21              |
 | Crossfaith                       | 96                 | 5h39              |
@@ -23,5 +23,3 @@
 | st.sinner                        | 15                 | 0h50              |
 | Until I Wake                     | 26                 | 1h26              |
 | Windwaker                        | 38                 | 2h13              |
-
-[Bad Omens](../Artists/Bad Omens.md)
