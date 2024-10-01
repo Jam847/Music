@@ -9,4 +9,4 @@ Albums:
 
 Genre Playlists:
 
-* [Metalcore](../Genre/Metalcore)
+* [Metalcore](../Genres/Metalcore.md)
