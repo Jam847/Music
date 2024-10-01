@@ -1,6 +1,6 @@
 # Bad Omens
 
-Studio Albums:
+## Studio Albums:
 
 | Album Name | No. Of Songs | Release Year |
 |------------|--------------|--------------|
@@ -8,12 +8,20 @@ Studio Albums:
 | Finding God Before God Finds Me (Deluxe) | 10 (13) | 2019 (2020) |
 | The Death Of Peace Of Mind | 15 | 2022 |
 
-Other Releases
+## Other Releases
 
 | Release Name | Release Type | No. Of Songs | Release Year |
 |--------------|--------------|--------------|--------------|
 | CONCRETE JUNGLE [THE OST] | Album/Record | 26 | 2024 |
+| FGBGFM Unplugged | EP | 6 | 2020 |
 
-Genre Playlists:
+## Also Appears On:
+
+| Track Name | Main Artist | Release Year |
+|------------|-------------|--------------|
+| One Of Us  | The Word Alive | 2023 |
+| Novocaine | Too Close To Touch | 2024 |
+
+## Genre Playlists:
 
 * [Metalcore](../Genres/Metalcore.md)
