@@ -1,4 +1,4 @@
-# Metalcore Artists
+# [Metalcore](https://open.spotify.com/playlist/2edtaUkhLJipa5iBz4jQYo?si=457feac66d9a42b1) Artists
 
 | Band                             | No. Of Songs       | Duration          |
 |----------------------------------|--------------------|-------------------|
@@ -17,7 +17,7 @@
 | Killswitch Engage                | 120                | 7h14              |
 | Motionless In White              | 90                 | 5h55              |
 | Of Virtue                        | 53                 | 3h28              |
-| Polaris 						   | 49                 | 3h21              |
+| Polaris 						             | 49                 | 3h21              |
 | Prospective                      | 54                 | 3h28              |
 | Spiritbox                        | 40                 | 2h38              |
 | st.sinner                        | 15                 | 0h50              |
