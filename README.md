@@ -1,6 +1,6 @@
 # Music
 
-This is a music repository intended solely for personal use, to keep track of my spotify playlists across devices as spotify does not allow enough characters.
+This is a music repository intended solely for personal use, to keep track of my [spotify](https://open.spotify.com/user/tai3d3q28xi7wnht459644ktn?si=f0b0f834797e4350) playlists across devices as spotify does not allow enough characters.
 
 ## Genres
 
