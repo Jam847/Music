@@ -8,7 +8,7 @@ Formed in 2015 in Richmond, Virginia, US, with members:
 * Nick Folio: Drummer
 * *Vincent Riquier: Former Bassist*
 
-They are signed to Sumerian Records
+They are signed to Sumerian Records.
 
 ## Studio Albums:
 
