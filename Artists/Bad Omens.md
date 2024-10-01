@@ -9,4 +9,4 @@ Albums:
 
 Genre Playlists:
 
-* [Metalcore](../blob/main/Genre/Metalcore)
+* [Metalcore](../Genre/Metalcore)
