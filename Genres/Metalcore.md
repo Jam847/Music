@@ -23,3 +23,5 @@
 | st.sinner                        | 15                 | 0h50              |
 | Until I Wake                     | 26                 | 1h26              |
 | Windwaker                        | 38                 | 2h13              |
+
+[Bad Omens](../Artists/Bad Omens.md
