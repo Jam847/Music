@@ -1,7 +1,8 @@
 # Metalcore Artists:
 
+| Band                             | No. Of Songs       | Duration          |
 |----------------------------------|--------------------|-------------------|
-| All That Remains | 101 songs | 6h28 |
+| All That Remains                 | 101 songs          | 6h28              |
 
 Architects (109 songs, 6h59)
 As I Lay Dying (96 songs, 5h51)
