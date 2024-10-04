@@ -19,7 +19,7 @@ They are signed to RCA Records globally, and Columbia Records in the US.
 | Sempiternal | 13 | 2013 |
 | That's The Spirit | 11 | 2015 |
 | amo | 13 | 2019 |
-| Music to Listen to~Dance to~Blaze to~Pray to~Feed to~Sleep to~Talk to~Grind to~Trip to~Breathe to~Help to~Hurt to~Scroll to~Roll to~Love to~Hate to~Learn Too~Plot to~Play to~Be to~Feel to~Breed to~Sweat to~Dream to~Hide to~Live to~Die to~Go To | 8 | 2019 |
+| Music to Listen to\~Dance to\~Blaze to\~Pray to\~Feed to\~Sleep to\~Talk to\~Grind to\~Trip to\~Breathe to\~Help to\~Hurt to\~Scroll to\~Roll to\~Love to\~Hate to\~Learn Too\~Plot to\~Play to\~Be to\~Feel to\~Breed to\~Sweat to\~Dream to\~Hide to\~Live to\~Die to\~Go To | 8 | 2019 |
 | POST HUMAN: SURVIVAL HORROR | 9 | 2020 |
 | POST HUMAN: NEX GEN | 16 | 2024 |
 
