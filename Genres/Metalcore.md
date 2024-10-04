@@ -6,7 +6,7 @@
 | Architects                       | 109                | 6h59              |
 | As I Lay Dying                   | 96                 | 5h51              |
 | [Bad Omens](../Artists/Bad-Omens.md) | 63             | 3h52              |
-| Bring Me The Horizon             | 110                | 7h15              |
+| Bring Me The Horizon(../Artists/Bring-Me-The-Horizon.md) | 110                | 7h15              |
 | Catch Your Breath                | 25                 | 1h21              |
 | Crossfaith                       | 96                 | 5h39              |
 | Dark Divine                      | 19                 | 1h04              |
