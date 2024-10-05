@@ -15,7 +15,10 @@ This is how you dropdown.
 | **The Death Of Peace Of Mind** | 15 | 2022 |
 
 Album
-<details><summary>**Bad Omens** (2016) (12 songs)</summary>
+<details>
+
+<summary>**Bad Omens** (2016) (12 songs)</summary>
+
 * Glass Houses
 * Exit Wounds
 * The Worst In Me
@@ -28,6 +31,7 @@ Album
 * The Letdown
 * Reprise (The Sound Of The End)
 * The Fountain
+
 </details>
 **Finding God Before God Finds Me** (Deluxe) | 10 (13) | 2019 (2020) |
 **The Death Of Peace Of Mind** | 15 | 2022 |
