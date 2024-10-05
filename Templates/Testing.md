@@ -19,6 +19,8 @@ Album
 
 </summary>
 
+Track Listing:
+
 * Glass Houses
 * Exit Wounds
 * The Worst In Me
