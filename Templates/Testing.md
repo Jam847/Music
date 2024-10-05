@@ -10,9 +10,7 @@ This is how you dropdown.
 
 | Album Name | No. Of Songs | Release Year |
 |------------|--------------|--------------|
-| <details>
-  <summary>Bad Omens | 12 | 2016 |</summary>
-  <br>
+| <details><summary>Bad Omens | 12 | 2016 </summary><br>
   * Glass Houses
   * Exit Wounds
   </details> |
