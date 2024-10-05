@@ -9,7 +9,7 @@ This is how you dropdown.
 </details>
 
 | Album Name | No. Of Songs | Release Year |
-|------------|^-------------|^-------------|
+|------------|--------------|--------------|
 | <details><summary>**Bad Omens**</summary>Glass Houses<br>Exit Wounds<br>The Worst In Me<br>F E R A L<br>Enough, Enough Now<br>Malice<br>Hedonist<br>Broken Youth<br>Crawl<br>The Letdown<br>Reprise (The Sound Of The End)<br>The Fountain</details> | 12 | 2016 |
 | **Finding God Before God Finds Me** (Deluxe) | 10 (13) | 2019 (2020) |
 | **The Death Of Peace Of Mind** | 15 | 2022 |
@@ -35,5 +35,7 @@ Track Listing:
 * The Fountain
 
 </details>
-**Finding God Before God Finds Me** (Deluxe) | 10 (13) | 2019 (2020) |
-**The Death Of Peace Of Mind** | 15 | 2022 |
+
+**Finding God Before God Finds Me** (Deluxe) 10 (13) 2019 (2020)
+
+**The Death Of Peace Of Mind** 15 2022
