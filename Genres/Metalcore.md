@@ -9,7 +9,7 @@
 | [Bring Me The Horizon](../Artists/Bring-Me-The-Horizon.md) | 110 | 7h15   |
 | Catch Your Breath                | 25                 | 1h21              |
 | Crossfaith                       | 96                 | 5h39              |
-| [Dark Divine ](../Artists/Dark-Divine.md) | 19        | 1h04              |
+| [Dark Divine ](../Artists/Dark-Divine.md) | 21        | 1h11              |
 | ERRA                             | 95                 | 6h50              |
 | Escape The Fate                  | 98                 | 5h36              |
 | I Prevail                        | 49                 | 2h42              |
