@@ -1,6 +1,6 @@
 # Bad Omens
 
-Formed in 2015 in Richmond, Virginia, US, with current members:
+Bad Omens is a metalcore band, formed in 2015 in Richmond, Virginia, US, with current members:
 
 * Noah Sebastian, Vocalist
 * Nicholas Ruffilo, Guitarist
