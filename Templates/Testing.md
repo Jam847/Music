@@ -15,7 +15,7 @@ This is how you dropdown.
 | **The Death Of Peace Of Mind** | 15 | 2022 |
 
 Album
-<details><summary><b>Bad Omens<\b> (2016) (12 songs)
+<details><summary><b>Bad Omens</b> (2016) (12 songs)
 
 </summary>
 
