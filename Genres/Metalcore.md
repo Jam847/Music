@@ -6,10 +6,10 @@
 | Architects                       | 109                | 6h59              |
 | As I Lay Dying                   | 96                 | 5h51              |
 | [Bad Omens](../Artists/Bad-Omens.md) | 63             | 3h52              |
-| [Bring Me The Horizon](../Artists/Bring-Me-The-Horizon.md) | 110                | 7h15              |
+| [Bring Me The Horizon](../Artists/Bring-Me-The-Horizon.md) | 110 | 7h15   |
 | Catch Your Breath                | 25                 | 1h21              |
 | Crossfaith                       | 96                 | 5h39              |
-| Dark Divine                      | 19                 | 1h04              |
+| [Dark Divine ](../Artists/Dark-Divine.md) | 19        | 1h04              |
 | ERRA                             | 95                 | 6h50              |
 | Escape The Fate                  | 98                 | 5h36              |
 | I Prevail                        | 49                 | 2h42              |
@@ -17,7 +17,7 @@
 | Killswitch Engage                | 120                | 7h14              |
 | Motionless In White              | 90                 | 5h55              |
 | Of Virtue                        | 53                 | 3h28              |
-| Polaris 						             | 49                 | 3h21              |
+| Polaris                          | 49                 | 3h21              |
 | Prospective                      | 54                 | 3h28              |
 | Spiritbox                        | 40                 | 2h38              |
 | st.sinner                        | 15                 | 0h50              |

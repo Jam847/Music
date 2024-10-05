@@ -1,6 +1,6 @@
 # Bring Me The Horizon
 
-Formed in 2004 in Sheffield, UK, with members:
+Formed in 2004 in Sheffield, UK, with current members:
 
 * Oli Sykes, Vocalist
 * Matt Nicholls, Drummer

@@ -1,12 +1,11 @@
 # Bad Omens
 
-Formed in 2015 in Richmond, Virginia, US, with members:
+Formed in 2015 in Richmond, Virginia, US, with current members:
 
-* Noah Sebastian: Vocalist
-* Nicholas Ruffilo: Guitarist
-* Joakim "Jolly" Karlsson: Guitarist
-* Nick Folio: Drummer
-* *Vincent Riquier: Former Bassist*
+* Noah Sebastian, Vocalist
+* Nicholas Ruffilo, Guitarist
+* Joakim "Jolly" Karlsson, Guitarist
+* Nick Folio, Drummer
 
 They are signed to Sumerian Records.
 
