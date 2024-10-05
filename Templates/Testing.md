@@ -17,7 +17,11 @@ This is how you dropdown.
 Album
 <details>
 
-<summary>**Bad Omens** (2016) (12 songs)</summary>
+<summary>
+
+**Bad Omens** (2016) (12 songs)
+
+</summary>
 
 * Glass Houses
 * Exit Wounds
