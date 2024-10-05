@@ -10,6 +10,6 @@ This is how you dropdown.
 
 | Album Name | No. Of Songs | Release Year |
 |------------|--------------|--------------|
-| <details><summary>Bad Omens</summary><br> * Glass Houses * Exit Wounds</details> | 12 | 2016 |
+| <details><summary>Bad Omens</summary>Glass Houses<br>Exit Wounds</details> | 12 | 2016 |
 | Finding God Before God Finds Me (Deluxe) | 10 (13) | 2019 (2020) |
 | The Death Of Peace Of Mind | 15 | 2022 |
