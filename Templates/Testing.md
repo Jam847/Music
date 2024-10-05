@@ -20,17 +20,29 @@ Album
 </summary>
 
 Track Listing:
+
 -Glass Houses
+
 -Exit Wounds
+
 -The Worst In Me
+
 -F E R A L
+
 -Enough, Enough Now
+
 -Malice
+
 -Hedonist
+
 -Broken Youth
+
 -Crawl
+
 -The Letdown
+
 -Reprise (The Sound Of The End)
+
 -The Fountain
 
 </details>
