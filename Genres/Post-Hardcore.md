@@ -7,6 +7,7 @@
 | Conquer Divide                   | 35                 | 2h18              |
 | [Future Palace](../Artists/Future-Palace.md) | 37     | 2h09              |
 | Get Scared                       | 65                 | 3h50              |
+| Savage Hands                     | 26                 | 1h31              |
 | Silverstein                      | 191                | 9h45              |
 | Sleeping With Sirens             | 88                 | 5h00              |
 | The Used                         | 168                | 10h08             |
